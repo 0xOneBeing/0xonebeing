@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Get to know me more from [my CV](https://drive.google.com/file/d/1T9cCYDxPMyBFOwHDiGUMQbkaZhM57eG0/view?usp=sharing)
+Get to know me more from [my CV](https://drive.google.com/file/d/1T9cCYDxPMyBFOwHDiGUMQbkaZhM57eG0/view?usp=sharing) or [my Resumé](https://docs.google.com/document/d/1W4riSUmAR-9jOE98AILIzI74mzGna9xPSutxnap8-qU/edit?usp=sharing)
 
 <!--
 **OxOneBeing/oxonebeing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
