@@ -1,4 +1,4 @@
-# **Sunday Obinna Oruwhone**
+# **Sunday Obinna Oruwhone ✨**
 
 ### Hi there 👋
 
@@ -9,6 +9,6 @@ Get to know me more from my [CV](https://docs.google.com/document/d/1ocDekhxp9Kx
 - 👯 I’m looking to collaborate on `...`
 - 🤔 I’m looking for help with `...`
 - 💬 Ask me about `The Sun`, `Web Development and Tutoring`, `Software Engineering`, `Anything that moves on wheels`, `Maths`
-- 📫 How to reach me: `...`
+- 📫 How to reach me: *[Twitter](https://www.twitter.com/0xOneBeing)*
 - 😄 Pronouns: `He/Him`
 - ⚡ Fun fact: `The last three letters of my surname is ONE and '✨' is my favourite emoji.`
