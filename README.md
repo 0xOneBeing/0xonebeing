@@ -1,5 +1,5 @@
 # **Sunday Obinna Oruwhone ✨**
-***"To be sure is better than sure - Amos Olanrewaju Oruwhone (d. 2013)"***[^1]
+***"To be sure is better than sure - Amos Olanrewaju Oruwhone"***[^1]
 
 ## Hi there 👋
 
@@ -26,4 +26,4 @@
 
 
 
-[^1]: ***"To be sure is better than sure - Amos Olanrewaju Oruwhone (d. 2013)"***
+[^1]: ***"To be sure is better than sure - Amos Olanrewaju Oruwhone (d. December 3^rd^, 2013)"***
