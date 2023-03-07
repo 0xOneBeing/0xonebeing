@@ -15,10 +15,6 @@
 
 ---
 
-![M](https://github-readme-stats.vercel.app/api?username=OxOneBeing&show_icons=true&theme=transparent)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OxOneBeing&layout=compact&theme=transparent)
-
----
-
 | GitHub Stats | Most Used Languages |
 | ----------- | ----------- |
 | ![M](https://github-readme-stats.vercel.app/api?username=OxOneBeing&show_icons=true&theme=transparent) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OxOneBeing&layout=compact&theme=transparent) |
@@ -26,4 +22,4 @@
 
 ---
 
-![Footer](https://pbs.twimg.com/profile_banners/200819716/1566675154/1500x500)
+[^1]: *To 'be sure' is better than 'sure' - Amos Olanrewaju Oruwhone (d. 2013)*.
