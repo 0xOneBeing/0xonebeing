@@ -19,9 +19,9 @@
 
 ---
 
-| Syntax & Description |
+| GitHub Stats | Most Used Languages |
 | ----------- | ----------- |
-| CV | Resume |
+| ![M](https://github-readme-stats.vercel.app/api?username=OxOneBeing&show_icons=true&theme=transparent) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OxOneBeing&layout=compact&theme=transparent) |
 | Twitter | Instagram |
 
 ---
