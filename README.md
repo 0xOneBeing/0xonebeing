@@ -24,6 +24,6 @@
 
 ![Footer Image](https://pbs.twimg.com/profile_banners/200819716/1566675154/1500x500)
 
-I'll finish with my Dad's favourite quote: [^1]
-[^1]: *To ==be sure== is better than ==sure== - Amos Olanrewaju Oruwhone (d. 2013)*.
+==To be sure is better than sure - Amos Olanrewaju Oruwhone (d. 2013)== [^1]
+[^1]: *To be sure is better than sure - Amos Olanrewaju Oruwhone (d. 2013)*.
 
