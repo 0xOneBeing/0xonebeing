@@ -13,4 +13,10 @@
 - 😄 Pronouns: `He/Him`.
 - ⚡ Fun fact: `The last three letters of my surname is ONE and '✨' is my favourite emoji`.
 
+---
+
+| ![M](https://github-readme-stats.vercel.app/api?username=OxOneBeing&show_icons=true&theme=radical) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OxOneBeing&layout=radical) |
+
+---
+
 ![Footer](https://pbs.twimg.com/profile_banners/200819716/1566675154/1500x500)
