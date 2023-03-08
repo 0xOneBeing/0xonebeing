@@ -26,4 +26,4 @@
 
 
 
-[^1]: ***"To be sure is better than sure - Amos Olanrewaju Oruwhone"*** (d. December 3^rd^&nbsp;, 2013)".
+[^1]: ***"To be sure is better than sure - Amos Olanrewaju Oruwhone"*** (d. December 3^r^^d^&nbsp;, 2013)".
