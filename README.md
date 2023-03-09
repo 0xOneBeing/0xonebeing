@@ -22,7 +22,7 @@
 
 ---
 
-![Footer Image](https://pbs.twimg.com/profile_banners/200819716/1566675154/1500x500)
+![Footer Image](https://www.canva.com/design/DAFclc5GXIU/oo5rVXRgvwvUR9FcqZgPog/view?utm_content=DAFclc5GXIU&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 
 
