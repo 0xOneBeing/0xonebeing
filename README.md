@@ -6,7 +6,7 @@
 ### Get to know me more from my [CV](https://docs.google.com/document/d/1ocDekhxp9KxNqNtb6MkeAlDd9gDQ14vbsIGvzyYVK4I/edit?usp=sharing) or from my one-pager [Resumé](https://docs.google.com/document/d/1W4riSUmAR-9jOE98AILIzI74mzGna9xPSutxnap8-qU/edit?usp=sharing).
 
 <!-- - 🤔 I’m looking for help with: `...`. -->
-- 🔭 I’m currently working on imptobing my `Web Develoment` & `Software Developement` skills.
+- 🔭 I’m currently working on improving my `Web Develoment` & `Software Developement` skills.
 - 🌱 I’m currently learning: `Software Engineering at ALX Africa`.
 - 👯 I’m looking to collaborate on: `Web Development` & `Software Engineering` projects.
 - 💬 Ask me about: `The Sun`, `Web Development and Tutoring`, `Software Engineering`, `Anything that moves on wheels`, `Maths`.
